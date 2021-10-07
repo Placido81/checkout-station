@@ -12,4 +12,5 @@ It's a simple [Next JS](https://nextjs.org/) project, so just do:
 yarn install
 yarn dev
 ```
-<img src=""
+
+<img src="https://user-images.githubusercontent.com/70597385/136419138-321af793-523b-4066-bc1d-cd232c634797.png"/>
